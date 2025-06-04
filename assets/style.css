@@ -23,6 +23,15 @@ body{
     z-index: -1;
 }
 
+
+
+@media screen and (max-width: 600px) {
+    .container {
+        height: 300px;
+        width: 300px;
+    }
+    
+}
 .background img{
     position: absolute;
     margin: auto;
